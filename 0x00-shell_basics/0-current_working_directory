@@ -1,1 +1,2 @@
-ls . README
+#!/bin/bash
+#!/bin/bash ls
